@@ -56,7 +56,3 @@ class Car { //parent class
     }
 
     const myCar = new Ford() //calling the child class
-
-
-
-
